@@ -4,7 +4,7 @@ In building this dashboard, I created individual pages for each plot of latitude
 
 The website consists of 7 pages total, including:
 
-* A [landing page](#landing-page) containing:
+* A [landing page](#index.html) containing:
   * An explanation of the project.
   * Links to each visualizations page.
 * Four [visualization pages](#visualization-pages), each with:

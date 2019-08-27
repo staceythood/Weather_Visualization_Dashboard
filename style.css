@@ -1,32 +1,57 @@
-.container {
-    background-color:lightgray;
-    margin: 10px;
+.box1 {
+  /* position: fixed; */
+  /* width: 750px; */
+  height: 500px;
+  /* margin: 10px; */
+  padding: 10px;
+  /* top: 15%; */
+  /* left:5%; */
+  background-color: whitesmoke;
+}
+.box2 {
+  /* position: fixed; */
+  /* width: 450px; */
+  height: 500px;
+  /* margin: 10px; */
+  padding: 10px;
+  /* top: 15%; */
+  /* right: 5%; */
+  background-color: whitesmoke;
 }
 .navbar-brand {
-    background: turquoise;
-    color: white;
-    margin: 10px;
-    padding: 10px;
-    font-family: "Times New Roman", Times, serif;
-    font-size: 30px;
-    height: 60px
+  background: turquoise;
+  color: white !important;
+  margin: 10px;
+  padding: 10px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 30px;
+  height: 60px;
 }
 .navbar-nav {
-    color: gray;
+  color: gray;
 }
 .navbar-toggler {
-    color: white;
-}
-.col-md-8 {
-    background-color: white;
+  color: white;
 }
 h1 {
-    color: turquoise;
-    font-family: "Times New Roman", Times, serif;
+  color: turquoise;
+  font-family: "Times New Roman", Times, serif;
+  padding: 10px;
 }
 .image {
-    float: left;
+  float: left !important;
+  height: 30%;
+  width: 30%;
 }
 .summary {
-    float: right;
+  float: left !important;
+}
+h3 {
+  color: turquoise;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+}
+.box {
+  background-color: whitesmoke;
+  padding: 30px;
 }

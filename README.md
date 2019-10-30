@@ -32,6 +32,7 @@ There does appear to be a relationship between latitude and max temperature. Whi
 From the previous visualizations we can see that the 20-40 latitude range appears to be hotter, less humid, and have clear skies. This could be due to 75% of the land mass between the 20th and 40th parallels being desert.
 
 There does not appear to be a relationship between latitude and wind speed, although it is worth noting the large number of data points in the 40-60 latitude range.  This range includes a larger concentration of cities, including all of Europe.
+
 ![Wind Speed (%) vs. Latitude](LatitudevsWindSpeed.png)
 
 ## Dashboard

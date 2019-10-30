@@ -18,16 +18,18 @@ Wind Speed (mph) vs. Latitude
 
 ## Findings:
 From the graph of latitude versus cloudiness, there appears to be significant clustering around 100% cloudiness in the 0-20 latitude range indicating mostly cloudy conditions and clustering around 0% in the 20-40 latitude range indicating mostly clear conditions. 
+
 ![Cloudiness (%) vs. Latitude](LatitudevsCloudiness.png)
 
-From the graph of latitude versus huidity, it appears that the majority of latitudes have 40% or higher rates of humidity, except for the 20-40 latitude range.
+From the graph of latitude versus humidity, it appears that the majority of latitudes have 40% or higher rates of humidity, except for the 20-40 latitude range.
+
 ![Humidity (%) vs. Latitude](LatitudevsHumidity.png)
 
 There does appear to be a relationship between latitude and max temperature. While temperatures generally got higher as they approached the equator, the highest temperatures were between 20-40 degrees latitude. This is most likely due to the data being generated in July which is summer in the northern hemisphere. 
+
 ![Max Temperature (%) vs. Latitude](LatitudevsMaxTemp.png)
 
-From the previous visualizations we can see that the 20-40 latitude range appears to be hotter, less humid, and have clear skies.
-This could be due to 75% of the land mass between the 20th and 40th parallels being desert.
+From the previous visualizations we can see that the 20-40 latitude range appears to be hotter, less humid, and have clear skies. This could be due to 75% of the land mass between the 20th and 40th parallels being desert.
 
 There does not appear to be a relationship between latitude and wind speed, although it is worth noting the large number of data points in the 40-60 latitude range.  This range includes a larger concentration of cities, including all of Europe.
 ![Wind Speed (%) vs. Latitude](LatitudevsWindSpeed.png)
